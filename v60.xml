@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/lge/flashlmdd" remote="github" name="hmtheboy154/android_device_lge_flashlmdd" revision="staging/universe" />
+  <project path="device/lge/sm8150-common" remote="github" name="hmtheboy154/android_device_lge_sm8150-common" revision="staging/universe" />
+  <project path="hardware/lge" remote="github" name="hmtheboy154/android_hardware_lge" revision="universe" />
+  <project path="kernel/lge/sm8150" remote="github" name="lge-qcom-dev/android_kernel_lge_sm8150" revision="staging/lineage-21" />
+</manifest>
